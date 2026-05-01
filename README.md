@@ -2,6 +2,12 @@
 
 A simple Python tool to decode multi-layered obfuscated `.py` files (base64 + zlib).
 
+## Support 
+```bash
+https://freecodingtools.org/tools/obfuscator/python
+```
+
+
 ## Usage
 
 ```bash
